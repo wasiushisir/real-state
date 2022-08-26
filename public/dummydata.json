@@ -1,0 +1,500 @@
+[
+    {
+        "_id":"1",
+        "location":"New york",
+        "house":"rose valley",
+         "range":"$500-$700",
+        "price":"3000",
+        "date":"1-9-22",
+        "category":"Houses",
+        "img":"https://cdn.pixabay.com/photo/2016/11/18/17/46/house-1836070_960_720.jpg",
+        "address":"2699 green valley,Highland Lake Fl",
+        "room":"345",
+        "bathroom":"35",
+        "squarefeet":"5*10m"
+
+    },
+    {
+        "_id":"2",
+        "location":"New york",
+        "house":"rose valley",
+         "range":"$500-$700",
+        "price":"3000",
+        "date":"1-9-22",
+        "category":"Houses",
+        "img":"https://cdn.pixabay.com/photo/2014/11/21/17/17/house-540796_960_720.jpg",
+        "address":"2699 green valley,Highland Lake Fl",
+        "room":"345",
+        "bathroom":"35",
+        "squarefeet":"5*10m"
+    },
+    {
+        "_id":"3",
+        "location":"New york",
+        "house":"rose valley",
+         "range":"$500-$700",
+        "price":"3000",
+        "date":"1-9-22",
+        "category":"Houses",
+        "img":"https://cdn.pixabay.com/photo/2014/07/10/17/18/large-home-389271_960_720.jpg",
+        "address":"2699 green valley,Highland Lake Fl",
+        "room":"345",
+        "bathroom":"35",
+        "squarefeet":"5*10m"
+    },
+    {
+        "_id":"4",
+        "location":"New york",
+        "house":"rose valley",
+         "range":"$500-$700",
+        "price":"3000",
+        "date":"1-9-22",
+        "category":"Houses",
+        "img":"https://cdn.pixabay.com/photo/2013/11/13/21/14/san-francisco-210230_960_720.jpg",
+        "address":"2699 green valley,Highland Lake Fl",
+        "room":"345",
+        "bathroom":"35",
+        "squarefeet":"5*10m"
+    },
+    {
+        "_id":"5",
+        "location":"New york",
+        "house":"house hutton",
+        "range":"$500-$700",
+        "date":"3-12-22",
+        "category":"Offices",
+        "img":"https://media.gettyimages.com/photos/scottsdale-business-park-a-beautiful-north-phoenix-office-building-picture-id155276196?s=2048x2048",
+        "room":"345",
+        "bathroom":"35",
+        "squarefeet":"5*10m",
+        
+        
+        "price":"29000"
+    },
+    {
+        "_id":"6",
+        "location":"New york",
+        "house":"house hutton",
+        "range":"$500-$700",
+        "date":"3-12-22",
+        "category":"Offices",
+        "img":"https://media.gettyimages.com/photos/colorful-corporate-building-at-fall-picture-id164478916?s=2048x2048",
+        "room":"345",
+        "bathroom":"35",
+        "squarefeet":"5*10m",
+        
+        
+        "price":"29000"
+    },
+    {
+        "_id":"7",
+        "location":"New york",
+        "house":"house hutton",
+        "range":"$500-$700",
+        "date":"3-12-22",
+        "category":"Offices",
+        "img":"https://media.gettyimages.com/photos/office-building-exteriors-picture-id182444113?s=2048x2048",
+        "room":"345",
+        "bathroom":"35",
+        "squarefeet":"5*10m",
+        
+        
+        "price":"29000"
+    },
+    {
+        "_id":"8",
+        "location":"New york",
+        "house":"house hutton",
+        "range":"$500-$700",
+        "date":"3-12-22",
+        "category":"Offices",
+        "img":"https://media.gettyimages.com/photos/business-towers-picture-id184962061?s=2048x2048",
+        "room":"345",
+        "bathroom":"35",
+        "squarefeet":"5*10m",
+        
+        
+        "price":"29000"
+    },
+    {
+        "_id":"9",
+        "location":"New york",
+        "house":"old traford",
+        "range":"$500-$700",
+        "date":"2-4-22",
+        "category":"Shopping Mall",
+        "img":"https://i.pinimg.com/originals/e8/6c/52/e86c52b552d8b5be7d911a957efb93fd.jpg",
+        "address":"2699 green valley,Highland Lake Fl",
+        "room":"345",
+        "bathroom":"35",
+        "squarefeet":"5*10m",
+       
+       
+        "price":"600"
+    },
+    {
+        "_id":"10",
+        "location":"New york",
+        "house":"old traford",
+        "range":"$500-$700",
+        "date":"2-4-22",
+        "category":"Shopping Mall",
+        "img":"https://image.shutterstock.com/shutterstock/photos/616382759/display_1500/stock-photo--d-rendering-and-design-shopping-mall-view-616382759.jpg",
+        "address":"2821 Lake Sevilla,Palm Harbour Tx",
+        "room":"370",
+        "bathroom":"50",
+        "squarefeet":"15*10m",
+       
+       
+        "price":"678"
+    },
+    {
+        "_id":"11",
+        "location":"New york",
+        "house":"old traford",
+        "range":"$500-$700",
+        "date":"2-4-22",
+        "category":"Shopping Mall",
+        "img":"https://i.pinimg.com/originals/75/c8/75/75c875dbd89046580d4b288f8ed82b3c.jpg",
+        "address":"909 woodland St Michigan In",
+        "room":"300",
+        "bathroom":"10",
+        "squarefeet":"4*10m",
+       
+       
+        "price":"660"
+    },
+    {
+        "_id":"12",
+        "location":"New york",
+        "house":"old traford",
+        "range":"$500-$700",
+        "date":"2-4-22",
+        "category":"Shopping Mall",
+        "img":"https://www.3dpower.in/images/commercial/full/5.jpg",
+        "address":"2000 pink valley,North Dakota Lake Fl",
+        "room":"340",
+        "bathroom":"36",
+        "squarefeet":"11*10m",
+       
+       
+        "price":"550"
+    },
+    {
+        "_id":"13",
+        "location":"London",
+        "house":"trent bridge",
+        "range":"$300-$400",
+        "date":"2-4-22",
+        "category":"Shopping Mall",
+        "img":"https://www.3dpower.in/images/commercial/full/5.jpg",
+        "address":"2000 pink valley,North Dakota Lake Fl",
+        "room":"340",
+        "bathroom":"36",
+        "squarefeet":"11*10m",
+        "price":"550"
+
+    },
+    {
+        "_id":"14",
+        "location":"London",
+        "house":"new castle",
+        "range":"$300-$400",
+        "date":"2-4-22",
+        "category":"Shopping Mall",
+        "img":"https://i.pinimg.com/originals/75/c8/75/75c875dbd89046580d4b288f8ed82b3c.jpg",
+        "address":"909 woodland St Michigan In",
+        "room":"300",
+        "bathroom":"10",
+        "squarefeet":"4*10m",
+       
+       
+        "price":"660"
+    },
+    {
+        "_id":"15",
+        "location":"London",
+        "house":"new castle",
+        "range":"$300-$400",
+        "date":"2-4-22",
+        "category":"Shopping Mall",
+        "img":"https://i.pinimg.com/originals/75/c8/75/75c875dbd89046580d4b288f8ed82b3c.jpg",
+        "address":"909 woodland St Michigan In",
+        "room":"300",
+        "bathroom":"10",
+        "squarefeet":"4*10m",
+       
+       
+        "price":"660"
+    },
+    {
+        "_id":"16",
+        "location":"London",
+        "house":"new castle",
+        "range":"$300-$400",
+        "date":"2-4-22",
+        "category":"Shopping Mall",
+        "img":"https://i.pinimg.com/originals/75/c8/75/75c875dbd89046580d4b288f8ed82b3c.jpg",
+        "address":"909 woodland St Michigan In",
+        "room":"300",
+        "bathroom":"10",
+        "squarefeet":"4*10m",
+       
+       
+        "price":"660"
+    },
+    {
+        "_id":"17",
+        "location":"London",
+        "house":"new castle",
+        "range":"$300-$400",
+        "date":"2-4-22",
+        "category":"Houses",
+        "img":"https://cdn.pixabay.com/photo/2014/11/21/17/17/house-540796_960_720.jpg",
+        "address":"909 woodland St Michigan In",
+        "room":"300",
+        "bathroom":"10",
+        "squarefeet":"4*10m",
+       
+       
+        "price":"660"
+    },
+    {
+        "_id":"18",
+        "location":"London",
+        "house":"new castle",
+        "range":"$300-$400",
+        "date":"2-4-22",
+        "category":"Houses",
+        "img":"https://cdn.pixabay.com/photo/2016/11/18/17/46/house-1836070_960_720.jpg",
+        "address":"909 woodland St Michigan In",
+        "room":"300",
+        "bathroom":"10",
+        "squarefeet":"4*10m",
+       
+       
+        "price":"660"
+    },
+    {
+        "_id":"19",
+        "location":"London",
+        "house":"new castle",
+        "range":"$300-$400",
+        "date":"2-4-22",
+        "category":"Offices",
+        "img":"https://media.gettyimages.com/photos/business-towers-picture-id184962061?s=2048x2048",
+        "address":"909 woodland St Michigan In",
+        "room":"300",
+        "bathroom":"10",
+        "squarefeet":"4*10m",
+       
+       
+        "price":"660"
+    },
+    {
+        "_id":"20",
+        "location":"London",
+        "house":"new castle",
+        "range":"$500-$700",
+        "date":"1-9-22",
+        "category":"Offices",
+        "img":"https://media.gettyimages.com/photos/office-building-exteriors-picture-id182444113?s=2048x2048",
+        "address":"909 woodland St Michigan In",
+        "room":"300",
+        "bathroom":"10",
+        "squarefeet":"4*10m",
+       
+       
+        "price":"660"
+    },
+    {
+        "_id":"21",
+        "location":"London",
+        "house":"new castle",
+        "range":"$800-$900",
+        "date":"3-12-22",
+        "category":"Offices",
+        "img":"https://media.gettyimages.com/photos/colorful-corporate-building-at-fall-picture-id164478916?s=2048x2048",
+        "address":"909 woodland St Michigan In",
+        "room":"300",
+        "bathroom":"10",
+        "squarefeet":"4*10m",
+       
+       
+        "price":"660"
+    },
+    {
+        "_id":"22",
+        "location":"London",
+        "house":"new castle",
+        "range":"$800-$900",
+        "date":"1-10-22",
+        "category":"Offices",
+        "img":"https://media.gettyimages.com/photos/colorful-corporate-building-at-fall-picture-id164478916?s=2048x2048",
+        "address":"909 woodland St Michigan In",
+        "room":"300",
+        "bathroom":"10",
+        "squarefeet":"4*10m",
+       
+       
+        "price":"660"
+    },
+    {
+        "_id":"23",
+        "location":"London",
+        "house":"new castle",
+        "range":"$800-$900",
+        "date":"2-4-22",
+        "category":"Offices",
+        "img":"https://media.gettyimages.com/photos/colorful-corporate-building-at-fall-picture-id164478916?s=2048x2048",
+        "address":"909 woodland St Michigan In",
+        "room":"300",
+        "bathroom":"10",
+        "squarefeet":"4*10m",
+       
+       
+        "price":"660"
+    },
+    {
+        "_id":"24",
+        "location":"Manchester",
+        "house":"big ton",
+        "range":"$800-$900"
+    },
+    {
+        "_id":"25",
+        "location":"New york",
+        "house":"house hutton",
+        "range":"$500-$700",
+        "date":"1-9-22",
+        "category":"Offices",
+        "img":"https://media.gettyimages.com/photos/business-towers-picture-id184962061?s=2048x2048",
+        "room":"345",
+        "bathroom":"35",
+        "squarefeet":"5*10m",
+        
+        
+        "price":"29000"
+    },
+    {
+        "_id":"25",
+        "location":"New york",
+        "house":"house hutton",
+        "range":"$300-$400",
+        "date":"1-9-22",
+        "category":"Offices",
+        "img":"https://media.gettyimages.com/photos/business-towers-picture-id184962061?s=2048x2048",
+        "room":"345",
+        "bathroom":"35",
+        "squarefeet":"5*10m",
+        
+        
+        "price":"29000"
+    },
+    {
+        "_id":"26",
+        "location":"New york",
+        "house":"rose valley",
+         "range":"$500-$700",
+        "price":"3000",
+        "date":"3-12-22",
+        "category":"Houses",
+        "img":"https://cdn.pixabay.com/photo/2014/11/21/17/17/house-540796_960_720.jpg",
+        "address":"2699 green valley,Highland Lake Fl",
+        "room":"345",
+        "bathroom":"35",
+        "squarefeet":"5*10m"
+    },
+    {
+        "_id":"27",
+        "location":"New york",
+        "house":"rose valley",
+         "range":"$300-$400",
+        "price":"3000",
+        "date":"3-12-22",
+        "category":"Houses",
+        "img":"https://cdn.pixabay.com/photo/2014/11/21/17/17/house-540796_960_720.jpg",
+        "address":"2699 green valley,Highland Lake Fl",
+        "room":"345",
+        "bathroom":"35",
+        "squarefeet":"5*10m"
+    },
+    {
+        "_id":"4",
+        "location":"New york",
+        "house":"rose valley",
+         "range":"$300-$400",
+        "price":"3000",
+        "date":"1-9-22",
+        "category":"Houses",
+        "img":"https://cdn.pixabay.com/photo/2013/11/13/21/14/san-francisco-210230_960_720.jpg",
+        "address":"2699 green valley,Highland Lake Fl",
+        "room":"345",
+        "bathroom":"35",
+        "squarefeet":"5*10m"
+    },
+    {
+        "_id":"7",
+        "location":"New york",
+        "house":"house hutton",
+        "range":"$300-$400",
+        "date":"3-12-22",
+        "category":"Offices",
+        "img":"https://media.gettyimages.com/photos/office-building-exteriors-picture-id182444113?s=2048x2048",
+        "room":"345",
+        "bathroom":"35",
+        "squarefeet":"5*10m",
+        
+        
+        "price":"29000"
+    },
+    {
+        "_id":"9",
+        "location":"New york",
+        "house":"old traford",
+        "range":"$500-$700",
+        "date":"3-12-22",
+        "category":"Shopping Mall",
+        "img":"https://i.pinimg.com/originals/e8/6c/52/e86c52b552d8b5be7d911a957efb93fd.jpg",
+        "address":"2699 green valley,Highland Lake Fl",
+        "room":"345",
+        "bathroom":"35",
+        "squarefeet":"5*10m",
+       
+       
+        "price":"600"
+    },
+    {
+        "_id":"9",
+        "location":"New york",
+        "house":"old traford",
+        "range":"$500-$700",
+        "date":"1-9-22",
+        "category":"Shopping Mall",
+        "img":"https://i.pinimg.com/originals/e8/6c/52/e86c52b552d8b5be7d911a957efb93fd.jpg",
+        "address":"2699 green valley,Highland Lake Fl",
+        "room":"345",
+        "bathroom":"35",
+        "squarefeet":"5*10m",
+       
+       
+        "price":"600"
+    },
+    {
+        "_id":"9",
+        "location":"New york",
+        "house":"old traford",
+        "range":"$300-$400",
+        "date":"1-9-22",
+        "category":"Shopping Mall",
+        "img":"https://i.pinimg.com/originals/e8/6c/52/e86c52b552d8b5be7d911a957efb93fd.jpg",
+        "address":"2699 green valley,Highland Lake Fl",
+        "room":"345",
+        "bathroom":"35",
+        "squarefeet":"5*10m",
+       
+       
+        "price":"600"
+    }
+    
+]
